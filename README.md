@@ -98,9 +98,9 @@ App should be available at: `http://localhost:5173`
 
 ---
 
-## 📸 Screenshots
+## Self Evaluation
 
-> Add some screenshots here if you'd like!
+> I need to host and make backend and frontend as two different folders. I need to add delte functionality. I pretty much followed best practices. The only drawback is backend folder structure and I have not hosted the code. I have followed component based structure which is efficient in reactjs.In mobile drag and drop is not working. These are the areas that I need to improve in this code.
 
 ---
 
