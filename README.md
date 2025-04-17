@@ -48,8 +48,8 @@ A responsive Kanban-style Task Management Dashboard built with **React + Vite + 
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/task-dashboard.git
-cd task-dashboard
+git clone https://github.com/KiranBabuMakireddi/DigitalXcassignment.git
+cd yourfolder-name
 ```
 
 ---
